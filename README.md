@@ -5,8 +5,8 @@
 2021.10.25 ~ 2021.11.05 (12일)
 
 ## ✍ 기술
-Frontend: React-hook, React-router, Styled-Components
-Backend: Node.js, Express, MySQL, Prisma, Postman, Jest, JWT, bycript
+- Frontend: React-hook, React-router, Styled-Components
+- Backend: Node.js, Express, MySQL, Prisma, Postman, Jest, JWT, bycript
 
 ## ✔ 담당 업무
 - 한지훈: Feed(타임라인), Floating Footer 컴포넌트
